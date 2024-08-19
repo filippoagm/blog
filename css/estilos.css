@@ -5,3 +5,10 @@ body
   color:deeppink;
 }
 
+#cabecera 
+{
+  background-color: #7bf;
+  padding: .5rem;
+  text-align:left;
+  color:#fff;
+}
