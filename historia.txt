@@ -1,4 +1,5 @@
 Esta es la historia de Freddy Vega.
 Freddy Vega tiene 32 años y nacio en Colombia, viviendo en todo el mundo.
-Hoy hablaremos de su vida y de su obra maestra
-<h1>Soy un nuevo titulo</h1>
+Hoy hablaremos de su vida y de su obra maestra.
+
+Esto es un cambio hecho en la carpeta proyecto 2 para practicar git clone y trabajos remotos.
