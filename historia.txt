@@ -3,3 +3,5 @@ Freddy Vega tiene 32 años y nacio en Colombia, viviendo en todo el mundo.
 Hoy hablaremos de su vida y de su obra maestra.
 
 Esto es un cambio hecho en la carpeta proyecto 2 para practicar git clone y trabajos remotos.
+
+Anita Platzi tiene 41 años y nació en internet
