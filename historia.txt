@@ -7,4 +7,5 @@ Esto es un cambio hecho en la carpeta proyecto 2 para practicar git clone y trab
 Anita Platzi tiene 41 años y nació en internet
 
 Esta es una nueva historia para comenta
-Estoy agregando una nueva modificacion como prueba
+Estoy agregando una nueva modificacion como prueb
+Otro cambio
